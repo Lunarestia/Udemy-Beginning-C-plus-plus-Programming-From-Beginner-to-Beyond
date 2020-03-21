@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Section 6 Challenge
+// Section 6 Challenge (Frank's Cleaning Service)
 int main() {
 	cout << "Hello, Welcome to Frank's Carpet Cleaning Service" << endl;
 	
