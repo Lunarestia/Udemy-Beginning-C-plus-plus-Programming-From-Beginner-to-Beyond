@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// Section 7 Challenge (Vectors)
 int main() {
 	
 	// 2 empty vectors of integers
