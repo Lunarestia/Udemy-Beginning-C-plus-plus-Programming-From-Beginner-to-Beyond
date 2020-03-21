@@ -1,2 +1,1 @@
-*.mk linguist-language=C++
-
+*.mk linguist-language=c++
